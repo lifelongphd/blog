@@ -1,7 +1,7 @@
 ---
-title: Start Here
+title: How to Hack Your Education
 date: 2020-12-28T17:06:05.540Z
-description: first post
+description: The right way to learn (for free!)
 draft: true
 ---
 The education system is a scam. Let's do some simple math using typical UK figures:
@@ -53,7 +53,7 @@ The ***DOWNSIDE*** to University education is that quite often, incredibly valua
 
 For example:
 
-"How to Win Friends and Influence People" by Dale Carnegie - is one of the greatest selling books of all time - recommended by top CEO's, psychologists, etc***.*** 
+*"How to Win Friends and Influence People"* by Dale Carnegie - is one of the greatest selling books of all time - recommended by top CEO's, psychologists, etc***.*** 
 
 However, will you find it in a University reading list? *Probably not.* I very much doubt it has been "peer reviewed".
 
@@ -63,7 +63,7 @@ What do I mean?
 
 Most "new" books are actually just "remixes" of knowledge that has been around for decades or longer. 
 
-That same book - "How to Win Friends and Influence People" - was published in 1936 (85 years ago!) and is still **HUGELY** valuable to some of the greatest minds today.
+That same book - *"How to Win Friends and Influence People"* - was published in 1936 (85 years ago!) and is still **HUGELY** valuable to some of the greatest minds today.
 
 The bottom line:
 
