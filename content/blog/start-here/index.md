@@ -4,6 +4,8 @@ date: 2020-12-28T17:06:05.540Z
 description: The right way to learn (for free!)
 draft: true
 ---
+## The Education Scam
+
 The education system is a scam. Let's do some simple math using typical UK figures:
 
 * Undergraduate: £9,000 x (3 years) = £27,000
@@ -13,8 +15,11 @@ The education system is a scam. Let's do some simple math using typical UK figur
 What do all of these courses have in common? 
 
 **1. Time Limited -** This means that when the course ends (or you stop paying) - you stop learning.
+
 **2. Expensive -** An undergraduate degree is the same cost of a deposit on a house.
+
 **3. Learning Materials -** All these courses provide learning in the form of someone reading off some powerpoint slides and telling you to read some recommended books. 
+
 **4. Disconnect with reality -** University learning does not equate to real-world experience - some of the greatest minds and success stories are *not* academics. 
 
 Is that good value? 
@@ -23,7 +28,13 @@ Fuck that.
 
 You can teach yourself everything you need to accelerate in your personal and professional life ***for next to nothing.*** 
 
-The new maths: 
+
+
+- - -
+
+
+
+## **The New Way to Learn:**
 
 * Average paperback book price: £12
 * Average Kindle e-book price: £4.99
@@ -51,7 +62,9 @@ Universities are ***GREAT*** at curating courses that start you on the ***fundam
 
 The ***DOWNSIDE*** to University education is that quite often, incredibly valuable material can be ***ignored*** primarily based on the fact it hasn't been "peer reviewed"
 
-For example:
+
+
+##### ***For example:***
 
 *"How to Win Friends and Influence People"* by Dale Carnegie - is one of the greatest selling books of all time - recommended by top CEO's, psychologists, etc***.*** 
 
@@ -65,13 +78,17 @@ Most "new" books are actually just "remixes" of knowledge that has been around f
 
 That same book - *"How to Win Friends and Influence People"* - was published in 1936 (85 years ago!) and is still **HUGELY** valuable to some of the greatest minds today.
 
-The bottom line:
+- - -
 
-**Technology may change, but the fundamentals of life do not.** 
+**The bottom line:**
+
+> ***Technology may change, but the fundamentals of life do not.*** 
 
 The aim of this blog is to provide a framework of learning material that exposes you to the **fundamentals** of success and happiness in your **personal and professional life**. 
 
 Good luck - you've got an exciting journey ahead. 
+
+- - -
 
 **Next post:** 
 
