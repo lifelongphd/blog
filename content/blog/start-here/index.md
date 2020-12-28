@@ -28,11 +28,7 @@ Fuck that.
 
 You can teach yourself everything you need to accelerate in your personal and professional life ***for next to nothing.*** 
 
-
-
 - - -
-
-
 
 ## **The New Way to Learn:**
 
@@ -44,7 +40,7 @@ Let's say for example you wanted the equivalent education of a BA Business Manag
 
 Step 1. Find the course that is most suited to what you would like to learn.
 
-Step 2. Make a list of all the "Recommended Reading" that those students are required to read for each module of that course. 
+Step 2. Make a list of all the "Recommended Reading" that those students are required to read for each module of that course. (You can get this from any online prospectus on an institution's website).
 
 Step 3. Acquire those books (either paid or free). 
 
@@ -61,8 +57,6 @@ I'm not. Let me explain.
 Universities are ***GREAT*** at curating courses that start you on the ***fundamentals*** of \*any\* topic (typically year 1) and progressing you through to advanced topics (year 3) - so you get an excellent exposure to all aspects of that particular subject. **\*AND\*** because Universities are bound by legal and professional standards, any recommended reading **WILL have been verified as a source** - so you won't be reading false information. 
 
 The ***DOWNSIDE*** to University education is that quite often, incredibly valuable material can be ***ignored*** primarily based on the fact it hasn't been "peer reviewed"
-
-
 
 ##### ***For example:***
 
