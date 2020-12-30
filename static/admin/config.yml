@@ -5,6 +5,10 @@ backend:
 media_folder: static/img
 public_folder: /img
 
+publish_mode: editorial_workflow
+site_url: https://www.lifelongphd.com/
+display_url: https://www.lifelongphd.com/
+
 collections:
   - name: 'blog'
     label: 'Blog'
@@ -21,4 +25,3 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Save as Draft', name: 'draft', required: false, widget: 'boolean', default: true}
