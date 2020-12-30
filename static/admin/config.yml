@@ -28,7 +28,7 @@ collections:
 
   - name: 'main'
     label: 'Main'
-    folder: 'content/blog'
+    folder: 'content/main'
     create: true
     identifier_field: name
     fields:
