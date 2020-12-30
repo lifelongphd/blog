@@ -28,6 +28,8 @@ collections:
 
   - name: 'main'
     label: 'Main'
+    folder: 'content/blog'
+    create: true
     identifier_field: name
     fields:
       - { label: 'Name', name: 'name', widget: 'string' }
